@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vikas/Documents/Vikas/Android App/Final App/SelfiApp copy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dfc1f69afe89dc904cf13504ee8292edb4652403">
+        <dex dex="/Users/vikas/Documents/Vikas/Android App/Final App/SelfiApp copy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_987658665014af14518abc4c34cf17a9ca1c2d28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikas/Documents/Vikas/Android App/Final App/SelfiApp copy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/vikas/Documents/Vikas/Android App/Final App/SelfiApp copy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_58f40a63cb085b4575063d778a6c1e4276ea4d91/classes.dex" />
+    </item>
+
+</items>
